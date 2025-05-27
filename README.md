@@ -32,7 +32,11 @@ A beautiful and intuitive **React Native** habit tracking application that helps
 ## 📱 DEMO Video
 
 
-https://github.com/user-attachments/assets/9a585a78-225d-46a3-a930-5a2a5d4ddfa5
+
+https://github.com/user-attachments/assets/07bca896-552e-4c5b-b672-461b8bbc3953
+
+
+
 
 
 
